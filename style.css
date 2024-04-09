@@ -1,14 +1,25 @@
 .navbar{
-    background-color: rgb(9 49 64);
+    background-color: #2C3E50;
     color: aliceblue;
 }
 
 
-.container text{
-    background-color: green;
+section{
+    background-color: #1abc9c;
+    color: aliceblue;
+}
+ 
+.last{
+    background-color: #3a546d;
+    color: aliceblue;
+}
 
 
+.bg-a{
+    background-color: #2C3E50;
+    color: aliceblue;
 
 
 
 }
+
